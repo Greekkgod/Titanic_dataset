@@ -33,5 +33,3 @@ The goal is to apply machine learning techniques to the Titanic dataset and pred
 - Seaborn & Matplotlib
 - Scikit-learn
 
-## Project Structure
-
